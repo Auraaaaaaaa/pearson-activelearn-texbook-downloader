@@ -19,5 +19,5 @@ requests
 internet connection
 
 ### why does this work?
-some work experience kid at pearson wrote the activelearn system and didn't include proper drm, and made it in the most lazy way possible. took a random 16 year old tranny 5 minutes to download a politics textbook 
+some work experience kid at pearson wrote the activelearn system and didn't include proper drm, and made it in the most lazy way possible. took a random 16 year old 5 minutes to download a politics textbook 
 fix ur shit pearson
